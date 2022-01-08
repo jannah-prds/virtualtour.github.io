@@ -1,0 +1,16 @@
+@media only screen and (max-width: 767px) {
+    .view-form {
+        width: 90%;
+        height: 75%;
+        box-sizing: border-box;
+    }
+
+    .btn-form-modal {
+        text-align: center;
+    }
+
+    .btn-form-modal input {
+        width: 50%;
+        height: 35px;
+    }
+}
